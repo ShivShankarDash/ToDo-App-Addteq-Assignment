@@ -6,7 +6,7 @@
 - Add tasks
 - Edit existing tasks 
 - Delete tasks
-- Bonus features : A strike-through line to distinguish between the completed tasks marked by you (appears once you mark the task complete)
+- Bonus features : A strike-through line to distinguish between the completed tasks marked by you (appears once you mark the task complete), Validation to enter atleast a character to post in the tasks list
 
 ## Tech stack used 
 
