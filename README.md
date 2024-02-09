@@ -23,7 +23,11 @@
 - Now go to the frontend_react folder and in the CLI type "npm run dev" to see the app on frontend
 
 
-## Incase you are not able to setup or see the project , please refer to the video attached
+## Incase you are not able to setup the project , please refer to the video attached
+
+
+
+https://github.com/ShivShankarDash/ToDo-App-Addteq-Assignment/assets/35873312/2235ce8b-1a9d-463b-ab7b-ad412d676ff0
 
 
 
