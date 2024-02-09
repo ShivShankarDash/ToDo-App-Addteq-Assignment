@@ -5,7 +5,8 @@
 - Display all available tasks
 - Add tasks
 - Edit existing tasks 
-- Delete tasks 
+- Delete tasks
+- Bonus features : A strike-through line to distinguish between the completed tasks marked by you (appears once you mark the task complete)
 
 ## Tech stack used 
 
