@@ -24,7 +24,7 @@
 - Now go to the frontend_react folder and in the CLI type "npm run dev" to see the app on frontend
 
 
-## Incase you are not able to setup the project , please refer to the video attached
+## Incase you are not able to setup the project , please refer to the video attached (Might appear pixelated due to compression)
 
 
 
